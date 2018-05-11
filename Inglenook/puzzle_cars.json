@@ -1,0 +1,36 @@
+{
+	"cars": [
+	{
+		"type": "Box Car",
+		"color": "Red"
+	},
+	{
+		"type": "Hopper",
+		"color": "White"
+	},
+	{
+		"type": "Tanker",
+		"color": "Cyan"
+	},
+	{
+		"type": "Box Car",
+		"color": "Yellow"
+	},
+	{
+		"type": "Box Car",
+		"color": "Magenta"
+	},
+	{
+		"type": "Gondola",
+		"color": "Green"
+	},
+	{
+		"type": "Box Car",
+		"color": "Blue"
+	},
+	{
+		"type": "Tanker",
+		"color": "Black"
+	}
+]
+}
